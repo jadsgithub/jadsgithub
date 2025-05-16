@@ -9,7 +9,7 @@ Sou um **Programador PHP/Laravel Sênior** com experiência em desenvolvimento d
 - **Front-end:** JavaScript (ReactJS), HTML, CSS, Bootstrap, jQuery
 - **QA e Testes:** Testes automatizados com Selenium, Code review, Garantia de qualidade
 - **DevOps Básico:** Automação de deploy e integrações contínuas
-- **Ferramentas e Bancos de Dados:** MySQL, SQL Server, Redux, C#
+- **Bancos de Dados:** MySQL, SQL Server
 
 ---
 
